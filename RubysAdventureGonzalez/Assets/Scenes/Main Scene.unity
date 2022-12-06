@@ -5525,9 +5525,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3de6e6862d5528942acd1a704f9640ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeInvincible: 2
   speed: 5
   maxHealth: 5
+  timeInvincible: 2
   currentHealth: 0
 --- !u!1001 &1790240152
 PrefabInstance:
@@ -97150,6 +97150,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7527608384451309937, guid: 3413944c14b3d974bb4a848249e04b31, type: 3}
+      propertyPath: m_Size.y
+      value: 0.54227257
+      objectReference: {fileID: 0}
+    - target: {fileID: 7527608384451309937, guid: 3413944c14b3d974bb4a848249e04b31, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.20158327
+      objectReference: {fileID: 0}
     - target: {fileID: 7527608384451309939, guid: 3413944c14b3d974bb4a848249e04b31, type: 3}
       propertyPath: m_RootOrder
       value: 115
