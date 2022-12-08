@@ -5528,6 +5528,7 @@ MonoBehaviour:
   speed: 5
   maxHealth: 5
   timeInvincible: 2
+  projectilePrefab: {fileID: 5765570620866400093, guid: 29693e499774a8d428dae0b2d52c29ed, type: 3}
   currentHealth: 0
 --- !u!1001 &1790240152
 PrefabInstance:
